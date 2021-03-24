@@ -1,5 +1,7 @@
 ### Hi 👋, I'm Colin Duggan
 
+I'm a Full-Stack Developer and Tech Lead based out of Galway, Ireland. I have experience building and scaling web applications and services in various verticals and I enjoy building side projects in my free time.
+
 <!--
 **cdugga/cdugga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
