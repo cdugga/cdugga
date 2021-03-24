@@ -1,4 +1,4 @@
-### Hi 👋, I'm Colin
+### Hi, I'm Colin👋
 
 I'm a Full-Stack Developer and Tech Lead based out of Galway, Ireland. I have experience building and scaling web applications and services in various verticals and I enjoy building side projects in my free time.
 
